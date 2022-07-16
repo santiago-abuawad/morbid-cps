@@ -19,6 +19,6 @@
 </h2>
 
 **NOTE:** \
-I am not the 100% original author of the code, I only improved it and updated it.
+I am not the 100% original author of the code, I only improved and updated it, I do not seek any credit for the code, it is free to use.
 
 ---
