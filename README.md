@@ -1,5 +1,5 @@
 <h1 align="center">
-  Damn Autoclicker ❌
+  Damn Autoclicker 💀
 </h1>
 
 <p align="center"> 
