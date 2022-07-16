@@ -32,5 +32,5 @@ python damn.py
 ```
 
 ## <a id="Image"></a> 📷 〢 Image
-## <img src="https://media.discordapp.net/attachments/994054709046431854/997760224842756146/unknown.png">
+## <img src="https://media.discordapp.net/attachments/879770708656390154/997944462959460414/unknown.png">
 
