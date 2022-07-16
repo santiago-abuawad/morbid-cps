@@ -31,3 +31,6 @@ pip install pynput
 python damn.py
 ```
 
+## <a id="Image"></a> 📷 〢 Image
+
+
