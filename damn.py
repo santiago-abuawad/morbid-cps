@@ -10,8 +10,8 @@ from pynput.keyboard import Listener, KeyCode
 
 system("title " + "Damn Autoclicker By[hyns]")
 #INPUT CPS VALUES
-delay_left = int(input(f"{Color.RED}LEFT{Color.WHITE}--> "))
-delay_right = int(input(f"{Color.RED}RIGHT{Color.WHITE}--> "))
+delay_left = int(input(f"{Color.WHITE}LEFT{Color.WHITE}--> "))
+delay_right = int(input(f"{Color.WHITE}RIGHT{Color.WHITE}--> "))
 button_left = Button.left
 button_right = Button.right
 start_stop_key_left = KeyCode(char='z')
@@ -19,7 +19,7 @@ start_stop_key_right = KeyCode(char='y')
 exit_key = KeyCode(char='x')
 #CLEAR CONSOLE
 system("cls")
-print(f"""
+print(f"""{Color.WHITE}
 ⠀⢀⣠⡤⠴⢖⣒⣟⣛⠛⠛⠓⠶⢦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡶⠶⠚⠛⠛⣛⣟⣓⠶⠦⣤⣀⠀
 ⠾⠿⠛⠒⠒⠛⠿⠿⣿⣀⣤⣤⡄⠀⠈⠛⠷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⠟⠋⠁⠀⣠⣤⣤⣠⣿⠿⠟⠓⠒⠚⠻⠿
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣥⣤⣤⡀⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠋⠁⠀⣠⣤⣄⣽⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀
@@ -54,7 +54,7 @@ print(f"""
 time.sleep(2)
 system("cls")
 #MAIN PRINTS
-print(f"""{Color.RED}
+print(f"""{Color.WHITE}
  .s5SSSs.  .s5SSSs.  .s5ssSs.  .s    s.  
       SS.       SS.    SS SS.       SS. 
 sS    S%S sS    S%S sS SS S%S sSs.  S%S 
