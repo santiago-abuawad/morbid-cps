@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/github/forks/dev-hyns/damn-autoclicker?color=%02B039&label=Forks&style=flat-square">
 </p>
 
+---
+
 </h2>
 
 **NOTE:** \
