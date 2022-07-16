@@ -13,3 +13,9 @@
   <img src="https://img.shields.io/github/stars/dev-hyns/damn-autoclicker?color=%02B039&label=Stars&style=flat-square">
   <img src="https://img.shields.io/github/forks/dev-hyns/damn-autoclicker?color=%02B039&label=Forks&style=flat-square">
 </p>
+</h2>
+
+**NOTE:** \
+I am not the 100% original author of the code, I only improved it and updated it.
+
+---
