@@ -8,7 +8,7 @@ from colorama import Fore as Color
 from pynput.mouse import Button, Controller
 from pynput.keyboard import Listener, KeyCode
 
-system("title " + "Morbid Autoclicker By[lvl#1337]")
+system("title " + "Morbid Autoclicker By[Github @santiagoabol]")
 #INPUT CPS VALUES
 delay_left = int(input(f"{Color.WHITE}LEFT{Color.WHITE}--> "))
 delay_right = int(input(f"{Color.WHITE}RIGHT{Color.WHITE}--> "))
@@ -231,5 +231,5 @@ with Listener(on_press_left,on_press_right) as listener:
     listener.join()
 
 #y==================================================
-#CODE BY HYNS                               
+#CODE BY santiagoabol                              
 #==================================================
