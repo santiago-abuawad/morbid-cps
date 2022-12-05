@@ -1,5 +1,5 @@
 <h1 align="center">
-  Damn Autoclicker 💀
+  Morbid 💀 MacroMouse
 </h1>
 
 <p align="center"> 
