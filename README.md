@@ -8,7 +8,6 @@
 </p>
 <p align="center">
    <img src="https://mariskalrock.com/wp-content/uploads/2019/05/i-am-morbid-logo.jpg">
-  <img src="https://img.shields.io/github/languages/top/dev-hyns/Damn-Autoclicker?style=flat-square">
   <img src="https://img.shields.io/github/last-commit/dev-hyns/Damn-Autoclicker?style=flat-square">
   <img src="https://img.shields.io/github/stars/dev-hyns/Damn-Autoclicker?color=%02B039&label=Stars&style=flat-square">
   <img src="https://img.shields.io/github/forks/dev-hyns/Damn-Autoclicker?color=%02B039&label=Forks&style=flat-square">
