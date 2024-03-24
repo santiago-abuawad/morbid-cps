@@ -1,5 +1,5 @@
 <h1 align="center">
-  Morbid 💀 MacroMouse
+  Morbid MacroMouse
 </h1>
 
 <p align="center"> 
